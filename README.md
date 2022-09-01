@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Justin!</h1>
+<h3 align="center">A full-stack Ruby on Rails developer from San Francisco, CA.</h3>
 
-<!--
-**jmarsh24/jmarsh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [tangotube](https://github.com/jmarsh24/tangotube)
 
-Here are some ideas to get you started:
+- 📫 How to reach me **jmarsh24@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarsh24&layout=compact" alt="jmarsh24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmarsh24&show_icons=true" alt="jmarsh24" /></p>
